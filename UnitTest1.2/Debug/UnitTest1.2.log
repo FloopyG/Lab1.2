@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest1.2.cpp
+B:\Унік\ООП\Тема 1\Lab1.2\UnitTest1.2\UnitTest1.2.cpp(17,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+B:\Унік\ООП\Тема 1\Lab1.2\UnitTest1.2\UnitTest1.2.cpp(17,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+B:\Унік\ООП\Тема 1\Lab1.2\UnitTest1.2\UnitTest1.2.cpp(17,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека B:\Унік\ООП\Тема 1\Lab1.2\Debug\UnitTest1.2.lib и объект B:\Унік\ООП\Тема 1\Lab1.2\Debug\UnitTest1.2.exp
+  UnitTest1.2.vcxproj -> B:\Унік\ООП\Тема 1\Lab1.2\Debug\UnitTest1.2.dll
